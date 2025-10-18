@@ -1,2 +1,5 @@
-# Fullstack-movie-recommendation-system
-A fullstack app on flutter with movie recommendation system  on tensorflow
+# Fullstack Movie Recommendation System
+
+## License
+
+This repository is not licensed for use or reuse. All rights reserved.
